@@ -1,4 +1,4 @@
-There are serval ways to solve this bug:
+There are several ways to solve this bug:
 1. delete spark.cleaner.ttl:
 
 2. spark.close():
